@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.e26504bc.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.58f32814.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.58f32814.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.881c30c4.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.881c30c4.js.map",
+    "static/js/2.f1f68f98.chunk.js": "/react-gh-pages/static/js/2.f1f68f98.chunk.js",
+    "static/js/2.f1f68f98.chunk.js.map": "/react-gh-pages/static/js/2.f1f68f98.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "precache-manifest.b9a266ab3e559ba6eb86742d4b704e19.js": "/react-gh-pages/precache-manifest.b9a266ab3e559ba6eb86742d4b704e19.js",
+    "service-worker.js": "/react-gh-pages/service-worker.js",
+    "static/css/main.e26504bc.chunk.css.map": "/react-gh-pages/static/css/main.e26504bc.chunk.css.map",
+    "static/media/HI_logo.png": "/react-gh-pages/static/media/HI_logo.bd555f22.png",
+    "static/media/facebook.413893b7.svg": "/react-gh-pages/static/media/facebook.413893b7.413893b7.svg",
+    "static/media/github.c1193649.svg": "/react-gh-pages/static/media/github.c1193649.c1193649.svg",
+    "static/media/instagram.8b73ec2e.svg": "/react-gh-pages/static/media/instagram.8b73ec2e.8b73ec2e.svg",
+    "static/media/twitter.29663de0.svg": "/react-gh-pages/static/media/twitter.29663de0.29663de0.svg"
+  }
+}
